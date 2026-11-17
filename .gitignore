@@ -1,0 +1,14 @@
+﻿# 忽略大 PDF 和其他非项目文件
+*.pdf
+*.zip
+!Einstein_vs_D.zip
+*.exe
+*.bin
+*.obj
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.tmp
+*.log
